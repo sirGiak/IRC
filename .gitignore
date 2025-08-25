@@ -1,0 +1,9 @@
+cmake-build-debug/
+
+.idea/
+
+objs/
+
+server
+
+client
